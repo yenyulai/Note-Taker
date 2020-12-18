@@ -1,11 +1,12 @@
 # note-taker
 ===
-![alt text](?raw=true)
+![alt text](https://github.com/yenyulai/note-taker/blob/main/Develop/public/assets/images/note-taker-starting%20page.png?raw=true)
+![alt text](https://github.com/yenyulai/note-taker/blob/main/Develop/public/assets/images/note-taker-notepage.png?raw=true)
 
 ## Installation
 
 1. Clon the repo 
-    https://github.com/yenyulai/Password_Guard.git
+    https://github.com/yenyulai/note-taker
 
 2. Open code using any IDE (VS Code recommanded)
 
@@ -28,11 +29,8 @@
   * run node using srver.js in root/Develop
   
   To funciton not-taker application
-
-  ![alt text](?raw=true)
-  ![alt text](?raw=true)
   
-  ![]()
+  ![](https://github.com/yenyulai/note-taker/blob/main/Develop/public/assets/images/note-taker.gif)
   
 
 
